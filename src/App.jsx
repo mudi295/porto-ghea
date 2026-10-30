@@ -366,7 +366,7 @@ function Contact() {
           <p className="eyebrow">LET’S START A CONVERSATION</p>
           <h2>Have a story<br />in <em>mind?</em></h2>
           <p>Let’s bring your next creative idea to life.</p>
-          <a href="mailto:gheadjanie99@gmail.com" className="contact-email">gheadjanie99@gmail.com <ArrowUpRight size={18} /></a>
+          <a href="mailto:gheadjanie25@gmail.com" className="contact-email">gheadjanie25@gmail.com <ArrowUpRight size={18} /></a>
           <div className="social-links">
             <a href="https://www.instagram.com/gheadjanie/" target="_blank" rel="noreferrer"><Instagram size={17} /> @gheadjanie <ExternalLink size={13} /></a>
             <span><MapPin size={16} /> Sukabumi, Indonesia</span>
